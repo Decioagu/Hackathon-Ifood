@@ -1,0 +1,1 @@
+document.querySelector("#nome").innerHTML = sessionStorage.getItem('nome');
